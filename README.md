@@ -21,7 +21,7 @@ Halfway through the sort:
 After the sort is completed:
 <br />
 <br />
-
+![sortedddd](https://github.com/brendangorch/Selection-and-Merge-Sort-Simulator/assets/145873615/a35da532-8c55-4221-bb42-1f80cea47efe)
 <br />
 <br />
 <br />
